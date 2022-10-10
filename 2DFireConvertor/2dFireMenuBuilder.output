@@ -1,0 +1,4 @@
+  File "D:\NANLI_DEV\ZiiPOSMenuBuilder\2DFireConvertor\2dFireMenuBuilder.py", line 17
+    import 2dFireMenuBuilder_support
+           ^
+SyntaxError: invalid decimal literal
